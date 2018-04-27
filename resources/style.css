@@ -43,16 +43,35 @@ a:active {
     text-decoration: underline;
 }
 
-.Body h2 {
+.body h2 {
   font-size: 32px;
   font-weight: bold;
 }
 
-.Body h3 {
+h3 {
   font-size: 23px;
   font-weight: bold;
 }
 
-.Body p {
-  font-size: 14px
+ p {
+  font-size: 14px;
+}
+
+.footer h2{
+  background-image:url(./images/the-flatiron-building.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-origin: padding-box;
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.footer h4{
+  text-align: left;
+  background-color: dimgrey;
+  color: white;
+  font-size: 11px;
+  font-weight: normal;
 }
