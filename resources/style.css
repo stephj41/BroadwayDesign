@@ -42,3 +42,17 @@ a:active {
     color: white;
     text-decoration: underline;
 }
+
+.Body h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.Body h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.Body p {
+  font-size: 14px
+}
